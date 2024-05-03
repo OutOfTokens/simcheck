@@ -1,0 +1,89 @@
+Item,Section,Order,Type
+Battery 1+2 to ON,Cockpit Preparation,1,A320
+EXT PWR to ON,Cockpit Preparation,2,A320
+Strobe Lights to AUTO,Cockpit Preparation,3,A320
+NAV & Logo to 2,Cockpit Preparation,4,A320
+MASTER SW to ON,Cockpit Preparation,5,A320
+APU Start to ON,Cockpit Preparation,6,A320
+Crew Supply to ON,Cockpit Preparation,7,A320
+EMER EXIT LT to ARM,Cockpit Preparation,8,A320
+No Smoking to AUTO,Cockpit Preparation,9,A320
+ADIRS to NAV,Cockpit Preparation,10,A320
+Program Flight in MCDU,Cockpit Preparation,11,A320
+Set QNH,Before Start,12,A320
+EXT PWR to OFF,Before Start,13,A320
+Get Pushback Clearance,Before Start,14,A320
+Call for Tug,Before Start,15,A320
+Beacon to ON,Engine Start Up,16,A320
+Fuel Pumps to ON,Engine Start Up,17,A320
+APU Bleed to On,Engine Start Up,18,A320
+Ignition to START,Engine Start Up,19,A320
+ENG2 to ON,Engine Start Up,20,A320
+ENG1 to ON,Engine Start Up,21,A320
+APU Bleed to OFF,Engine Start Up,22,A320
+APU Master to OFF,Engine Start Up,23,A320
+Spoilers to ARM,Taxiing,24,A320
+Flaps to T/O Config,Taxiing,25,A320
+Flight Controls Check,Taxiing,26,A320
+Nose Light to TAXI,Taxiing,27,A320
+RWY Turnoff Lights to ON,Taxiing,28,A320
+Auto Brake to MAX,Before Takeoff,29,A320
+Cabin CALL,Before Takeoff,30,A320
+Weather Radar to ON,Before Takeoff,31,A320
+Pred. Windshear to ON,Before Takeoff,32,A320
+TCAS to TA/RA,Before Takeoff,33,A320
+Nose Light to T/O,Before Takeoff,34,A320
+Strobe Lights to ON,Before Takeoff,35,A320
+Landing Lights to ON,Before Takeoff,36,A320
+Landing Gear to UP,After Takeoff,37,A320
+Spoilers to DISARM,After Takeoff,38,A320
+Thrust Lever to CLIMB,After Takeoff,39,A320
+AP1 to ON,After Takeoff,40,A320
+Flaps to RETRACTED,After Takeoff,41,A320
+Nose Light to OFF,After Takeoff,42,A320
+RWY Turnoff Lights to OFF,After Takeoff,43,A320
+Barometic Reference to STD/SET,Climb/Descent,44,A320
+Landing Lights to OFF/ON,Climb/Descent,45,A320
+Seatbelts to OFF/ON,Climb/Descent,46,A320
+Cabin CALL,Climb/Descent,47,A320
+Landing Systems (LS) to ON,Approach,48,A320
+LOC Mode to ON,Approach,49,A320
+APPR Mode to ON,Approach,50,A320
+G/S CAPTURED,Approach,51,A320
+G/A Altitude SET,Approach,52,A320
+Flaps to Extend,Approach,53,A320
+"Gear to DOWN (above 2,000ft)",Approach,54,A320
+Auto Brake to SET,Approach,55,A320
+Spoilers to ARM,Approach,56,A320
+Nose Lights to T/O,Approach,57,A320
+RWY Turnoff Lights to ON,Approach,58,A320
+Flaps to 3/FULL,Approach,59,A320
+Cabin CALL,Approach,60,A320
+Flaps to RETRACTED,After Landing,61,A320
+Spoilers to DISARM,After Landing,62,A320
+TCAS to STBY,After Landing,63,A320
+Weather Radar to OFF,After Landing,64,A320
+Pred. Windshear to OFF,After Landing,65,A320
+Landing Lights to OFF,After Landing,66,A320
+Strobe Lights to AUTO,After Landing,67,A320
+Nose Light to TAXI,After Landing,68,A320
+APU Master to ON,After Landing,69,A320
+Landing Systems (LS) to OFF,After Landing,70,A320
+Parking Brake to SET,Shutdown,71,A320
+Nose Light to OFF,Shutdown,72,A320
+RWY Turnoff Lights to OFF,Shutdown,73,A320
+APU Bleed to ON,Shutdown,74,A320
+Engine Master 1+2 to OFF,Shutdown,75,A320
+Beacon Light to OFF,Shutdown,76,A320
+Seatbelt Signs to OFF,Shutdown,77,A320
+Fuel Pumps to OFF,Shutdown,78,A320
+EXT Power to ON,Shutdown,79,A320
+APU Bleed to OFF,Shutdown,80,A320
+APU Master to OFF,Shutdown,81,A320
+ADIRS to OFF,Secure Aircraft,82,A320
+Crew Supply to OFF,Secure Aircraft,83,A320
+EXT Lights to OFF,Secure Aircraft,84,A320
+No Smoking Signs to OFF,Secure Aircraft,85,A320
+Emergency Exit Signs to OFF,Secure Aircraft,86,A320
+EXT Power to OFF,Secure Aircraft,87,A320
+Battery 1+2 to OFF,Secure Aircraft,88,A320
